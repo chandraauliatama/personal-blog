@@ -14,7 +14,7 @@ googleAnalytics = "UA-123-45"
 disqusShortname = "ink-demo"
 
 [params]
-	subtitle = "Student, who love learning."
+	subtitle = "Tempat Nulis Isi Pikiran"
 
 	# Optional 64x64 avatar image.
 	avatar = "/images/avatar1.jpg"
@@ -31,22 +31,22 @@ disqusShortname = "ink-demo"
 
 # Nav.
 [[menu.main]]
-name = "Home"
+name = "Beranda"
 url = "/"
 weight = 1
 
 [[menu.main]]
-name = "All posts"
+name = "Semua Tulisan"
 url = "/posts"
 weight = 2
 
 [[menu.main]]
-name = "About"
+name = "Tentang"
 url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
+name = "Tag"
 url = "/tags"
 weight = 4
 
