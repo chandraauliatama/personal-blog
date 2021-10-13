@@ -21,12 +21,13 @@ Belakangan ini dengan berkembangnya ilmu pengetahuan dan teknologi serta cepatny
 Pada Kamus Besar Bahasa Indonesia frasa anak bangsa didefinisikan sebagai ‘anak negeri’, sedangkan anak negeri berarti ‘penduduk suatu negeri (daerah atau wilayah)’. Tapi, jawaban ini belum memuaskan. Misalnya, siapa yang berhak mendapat sebutan anak bangsa masih belum terjawab.
 Untuk itu, tim _Vice Indonesia_ mencoba mencari arsip artikel di internet untuk mengetahui, dalam kalimat-kalimat seperti apa saja “anak bangsa” kerap disisipkan. Ini hasilnya.
 
-1. Anak bangsa dipakai dalam laporan kemenangan WNI dalam kompetisi olahraga, akademik, dan seni di level internasional.Anak bangsa dipakai dalam laporan tentang WNI diaspora/menetap di luar negeri yang telah menghasilkan satu pencapaian karier yang luar biasa.
-2. Anak bangsa dipakai untuk berita teknologi dan sains untuk menyebut capaian WNI yang tinggal di dalam maupun luar negeri, yang baru saja membuat terobosan. Enggak semua terobosan baru sih, kadang biasa aja, tapi jadi wah karena kayaknya selama ini orang Indonesia enggak pede bisa melakukannya sendiri. Misalnya: bikin mobil.
-3. Anak bangsa dipakai untuk ngomongin kewajiban orang Indonesia untuk negaranya, terutama berkaitan dengan tugas orang yang masih muda.
-4. (Karya) anak bangsa dipakai untuk menggantikan istilah produksi atau ketenagakerjaan dalam negeri dalam konteks mengadang arus tenaga kerja dan komoditas impor.
+1. Anak bangsa dipakai dalam laporan kemenangan WNI dalam kompetisi olahraga, akademik, dan seni di level internasional.
+2. Anak bangsa dipakai dalam laporan tentang WNI diaspora/menetap di luar negeri yang telah menghasilkan satu pencapaian karier yang luar biasa.
+3. Anak bangsa dipakai untuk berita teknologi dan sains untuk menyebut capaian WNI yang tinggal di dalam maupun luar negeri, yang baru saja membuat terobosan. Enggak semua terobosan baru sih, kadang biasa aja, tapi jadi wah karena kayaknya selama ini orang Indonesia enggak pede bisa melakukannya sendiri. Misalnya: bikin mobil.
+4. Anak bangsa dipakai untuk ngomongin kewajiban orang Indonesia untuk negaranya, terutama berkaitan dengan tugas orang yang masih muda.
+5. (Karya) anak bangsa dipakai untuk menggantikan istilah produksi atau ketenagakerjaan dalam negeri dalam konteks mengadang arus tenaga kerja dan komoditas impor.
 
-Dari sini, saya bikin tiga kesimpulan sementara soal fungsi dan arti istilah anak bangsa.
+Dari sini, kita bisa membuat tiga kesimpulan sementara soal fungsi dan arti istilah anak bangsa.
 Pertama, kalau seseorang atau sekelompok orang disebut anak bangsa, artinya mereka habis melakukan sesuatu yang membanggakan negara. Kedua, dia atau mereka juga bakal dapat gelar anak bangsa kalau lagi diingetin soal kewajibannya kepada negara. Ketiga, anak bangsa dipakai juga buat menekankan hak WNI atas prioritas kesempatan ekonomi di negaranya sendiri.
 
 ### [Problematika Istilah Karya Anak Bangsa dan Mental Maksa Bangga](https://mojok.co/terminal/problematika-istilah-karya-anak-bangsa-dan-mental-maksa-harus-bangga/)
